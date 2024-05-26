@@ -8,14 +8,14 @@ The **personal milestones table** outlines key milestones for practical programm
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/alexianero                                               | 
-| 1    | Github Profile Page                         | https://github.com/alexianero/alexianero                                   |
+| 1    | Github Profile Page                         | https://github.com/alexianero/alexianero                                    |
 | 1    | Commit and Push Change from Command Line    | https://github.com/alexianero/ppchem/commit/main                            |
 | 1    | Create a New Branch                         | https://github.com/alexianero/ppchem/tree/new-branch-name                   |
 | 1    | Create a conda environment                  | https://github.com/alexianero/ppchem/blob/name/env.yml                      |
 | 1    | Fork a Repo                                 | https://github.com/`alexianero/practical-programming-in-chemistry-milestones|
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/alexianero/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/alexianero/ppchem/pull/1                                 |
 
 **More milestones will be added throughout the course.**
 
